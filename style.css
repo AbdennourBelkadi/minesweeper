@@ -1,0 +1,44 @@
+.title{
+	font-family: Century Gothic;
+}
+
+.topbar{
+	top: 0px;
+	bottom: 600px;
+	width: 100%;
+	right: 0px;
+	left: 0px;
+	background: #ADD8E6;
+	text-align: center;
+	color: black;
+	position: absolute;
+}
+
+body{
+	background: darkgray;
+}
+
+.space{
+	font-family: Century Gothic;
+   line-height:220px;
+   margin-top: 40px;
+   text-shadow: 0px 0px 1px white;
+   font-size: 25px;
+            
+}
+
+button{
+	width: 80px;
+	height: 80px;
+	background: lightcyan;
+	color: black;
+	border-width: 2px;
+	border-color: black;
+	border-radius: 20%;
+	margin-right: 3px;
+	margin-left: 3px;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	font-family: Courier New;
+	font-size: 35px;
+}
